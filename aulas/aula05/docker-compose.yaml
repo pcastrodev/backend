@@ -1,0 +1,10 @@
+services:
+  app:
+    image: node:21
+    container_name: minhapp
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./:/app
+    tty: true
+    stdin_open: true
