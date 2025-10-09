@@ -2,7 +2,7 @@
 const { MongoClient } = require('mongodb');
 
 // string de conexão
-const url = "mongodb+srv://pcastro:@cluster0.udzcqn7.mongodb.net/"
+const url = "mongodb+srv://@cluster0.udzcqn7.mongodb.net/"
 
 const client = new MongoClient(url);
 
