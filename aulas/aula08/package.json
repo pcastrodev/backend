@@ -1,0 +1,16 @@
+{
+  "name": "aula08",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.20.0",
+    "readline-sync": "^1.4.10"
+  }
+}
