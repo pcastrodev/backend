@@ -1,0 +1,17 @@
+{
+  "name": "pratica06",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "mongodb": "^6.20.0",
+    "readline-sync": "^1.4.10"
+  }
+}
